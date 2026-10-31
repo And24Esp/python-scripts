@@ -1,0 +1,7 @@
+7
+6
+5
+4
+Hello, world!
+---------------------------------
+My first file written from Python

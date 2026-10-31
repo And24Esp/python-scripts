@@ -1,0 +1,9 @@
+0 pokemons
+1 armadillo
+2 DJ snake
+3 pied piper
+4 snake line
+5 other
+6 another other
+7 one more other
+
